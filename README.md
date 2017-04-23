@@ -1,5 +1,4 @@
 # ISTM-6212-Data-Management
-
 Remarks:
 * SQL Part:
   * Exercise 03 - [view notebook](Exercise/exercise-03.ipynb)
